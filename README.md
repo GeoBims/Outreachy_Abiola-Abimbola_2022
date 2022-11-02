@@ -19,3 +19,19 @@ Climate change refers to long-term shifts in temperatures and weather patterns. 
 ### What are the impacts and actions of climate change globally?
 
 Globally, Climate change is already impacting health in a myriad of ways, including by leading to death and illness from increasingly frequent extreme weather events, such as heatwaves, storms and floods, the disruption of food systems, increases in zoonoses and food-, water- and vector-borne diseases, and mental health issues. Climate change’s effects range from sea level rise and more frequent extreme weather events to the loss of biodiversity and increased risk of diseases. Climate change has impacted every form of life—humans, plants, and animals.
+
+### How has climate change affected my local community (Nigeria)
+
+Floods are a recurring natural hazard in Nigeria and have become more frequent throughout the country in the last couple of years and months. Agriculture, health, infrastructure, the economy, and trade have all been negatively impacted, as evidenced recently. Sea levels have been rising along the coast of Nigeria, causing coastal erosion and some villages to be lost (e.g. Areas in Bayelsa, Benue, Kogi and Delta State). Droughts negatively impact the socio-economic growth of Nigeria and are projected to become more severe in the future as a result of climate change. Significant drought years and persistent droughts have the possibility of causing crop failures, loss of livestock, and famines. Additionally, desertification has been occurring in Nigeria, with desert conditions moving southward.
+
+### What can be done to mitigate and adapt to climate change? 
+
+#### ● Speak up! Advocate for changes to our energy system.
+
+#### ● Use renewable energy
+
+#### ● Conserve energy
+In a fossil-fuel based society, using energy leads to greenhouse gas emissions. And even low-carbon, clean energy sources cause some environmental degradation. It’s critical that we find ways to use less energy.
+
+#### ● Help conserve and restore forests
+Forests excel at taking in and storing carbon. They also provide habitat for our non-human relatives, clean our water and air, prevent flooding and soil erosion, and much more. Advocate for stopping deforestation. Get involved in forest restoration projects.
