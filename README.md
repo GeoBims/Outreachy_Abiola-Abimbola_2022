@@ -36,5 +36,5 @@ In a fossil-fuel based society, using energy leads to greenhouse gas emissions. 
 #### * Help conserve and restore forests
 Forests excel at taking in and storing carbon. They also provide habitat for our non-human relatives, clean our water and air, prevent flooding and soil erosion, and much more. Advocate for stopping deforestation. Get involved in forest restoration projects.
 
-By [Abiola Abimbola]
+
 
