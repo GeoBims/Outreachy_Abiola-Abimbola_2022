@@ -1,11 +1,11 @@
-# Outreachy December 2022 Contributin Phase at Moja Global 
+# Outreachy December 2022 Contributin Phase at Moja Global
 ## Task 0 (Git & Github- My Interest in the Climate Change Project)
 
 
 ## - WHY I CHOSE THIS PROJECT
 ## - WHAT IS CLIMATE CHANGE?
 ## - THE IMPACT AND ACTION OF CLIMATE CHANGE ON THE GLOBE
-## - HOW HAS CLIMATE CHANGE AFFECTED MY LOCAL COMMUNITY? 
+## - HOW HAS CLIMATE CHANGE AFFECTED MY LOCAL COMMUNITY?
 ## - WHAT CAN BE DONE TO MITIGATE AND ADAPT TO CLIMATE CHANGE?
 
 
@@ -24,7 +24,7 @@ Globally, Climate change is already impacting health in a myriad of ways, includ
 
 Floods are a recurring natural hazard in Nigeria and have become more frequent throughout the country in the last couple of years and months. Agriculture, health, infrastructure, the economy, and trade have all been negatively impacted, as evidenced recently. Sea levels have been rising along the coast of Nigeria, causing coastal erosion and some villages to be lost (e.g. Areas in Bayelsa, Benue, Kogi and Delta State). Droughts negatively impact the socio-economic growth of Nigeria and are projected to become more severe in the future as a result of climate change. Significant drought years and persistent droughts have the possibility of causing crop failures, loss of livestock, and famines. Additionally, desertification has been occurring in Nigeria, with desert conditions moving southward.
 
-### What can be done to mitigate and adapt to climate change? 
+### What can be done to mitigate and adapt to climate change?
 
 #### * Speak up and. Advocate for changes to our energy system.
 
@@ -35,6 +35,3 @@ In a fossil-fuel based society, using energy leads to greenhouse gas emissions. 
 
 #### * Help conserve and restore forests
 Forests excel at taking in and storing carbon. They also provide habitat for our non-human relatives, clean our water and air, prevent flooding and soil erosion, and much more. Advocate for stopping deforestation. Get involved in forest restoration projects.
-
-
-
