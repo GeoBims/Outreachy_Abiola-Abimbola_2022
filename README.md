@@ -2,11 +2,11 @@
 ## Task 0 (Git & Github- My Interest in the Climate Change Project)
 
 
-## ◇ WHY I CHOSE THIS PROJECT
-## ◇ WHAT IS CLIMATE CHANGE?
-## ◇ THE IMPACT AND ACTION OF CLIMATE CHANGE ON THE GLOBE
-## ◇ HOW HAS CLIMATE CHANGE AFFECTED MY LOCAL COMMUNITY? 
-## ◇ WHAT CAN BE DONE TO MITIGATE AND ADAPT TO CLIMATE CHANGE?
+## - WHY I CHOSE THIS PROJECT
+## - WHAT IS CLIMATE CHANGE?
+## - THE IMPACT AND ACTION OF CLIMATE CHANGE ON THE GLOBE
+## - HOW HAS CLIMATE CHANGE AFFECTED MY LOCAL COMMUNITY? 
+## - WHAT CAN BE DONE TO MITIGATE AND ADAPT TO CLIMATE CHANGE?
 
 
 ### WHY I CHOSE THIS PROJECT
@@ -26,13 +26,15 @@ Floods are a recurring natural hazard in Nigeria and have become more frequent t
 
 ### What can be done to mitigate and adapt to climate change? 
 
-#### ● Speak up! Advocate for changes to our energy system.
+#### * Speak up and. Advocate for changes to our energy system.
 
-#### ● Use renewable energy
+#### * Use renewable energy
 
-#### ● Conserve energy
+#### * Conserve energy
 In a fossil-fuel based society, using energy leads to greenhouse gas emissions. And even low-carbon, clean energy sources cause some environmental degradation. It’s critical that we find ways to use less energy.
 
-#### ● Help conserve and restore forests
+#### * Help conserve and restore forests
 Forests excel at taking in and storing carbon. They also provide habitat for our non-human relatives, clean our water and air, prevent flooding and soil erosion, and much more. Advocate for stopping deforestation. Get involved in forest restoration projects.
+
+By [Abiola Abimbola]
 
